@@ -1,1 +1,0 @@
-# Diabetes_app_python

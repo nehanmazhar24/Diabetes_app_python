@@ -1,0 +1,7 @@
+# Diabetes_app_python
+
+gradio
+numpy
+pandas
+tensorflow
+scikit-learn
