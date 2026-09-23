@@ -52,4 +52,4 @@ interface = gr.Interface(
     description="Enter patient health data to predict diabetes risk using a trained neural network model."
 )
 
-interface.launch()
+interface.launch(share=True)
